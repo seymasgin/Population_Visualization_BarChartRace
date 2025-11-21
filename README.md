@@ -6,7 +6,7 @@ This work allows users to dynamically explore how the population of Istanbul’s
 
 🎞️ Bar Chart Race Animation
 
-![Population Bar Chart Race](istanbul_districts_pop_new)
+![Population Bar Chart Race](istanbul_districts_pop_new.gif)
 
-![Top 15 Districts with the Highest Population Change](istanbul_change_highest15)
+![Top 15 Districts with the Highest Population Change](istanbul_change_highest15.gif)
 
